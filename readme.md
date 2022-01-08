@@ -1,4 +1,4 @@
-# Unit3_InternTheory.com Clone
+# Unit2_InternTheory.com Clone
 This project is a clone of online courses.com which is provide Internships across India.
 
 ![Logo](https://assets.interntheory.com/creative/logo.png)
