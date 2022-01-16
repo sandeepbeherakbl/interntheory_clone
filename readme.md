@@ -27,24 +27,29 @@ This website is basically a internship website where you can find different type
 ## Glimes Of my project
 1. Landing Page
 
-![landing](./pro image/landing page.jpg)
+<img src="./pro image/landing page.jpg" />
 
 2. Internship Page
 
-![intern page](/pro image/Internship page.jpg)
+<img src="./pro image/Internship page.jpg />
+
 
 3. Internship Description Page
 
-![intern des](pro image/internship des.jpg)
+<img src="./pro image/internship des.jpg" />
+
 
 4. Course Page
 
-![course](pro image/course page.jpg)
+<img src="./pro image/course page.jpg" />
+
 
 5. Cart page
 
-![cart](pro image/cart.jpg)
+<img src="./pro image/cart.jpg" />
+
 
 6. Payment Page
 
-![payment](pro image/payment.jpg)
+<img src="./pro image/payment.jpg" />
+
