@@ -27,7 +27,7 @@ This website is basically a internship website where you can find different type
 ## Glimes Of my project
 1. Landing Page
 
-![landing](pro image/landing page.jpg)
+![landing](./pro image/landing page.jpg)
 
 2. Internship Page
 
