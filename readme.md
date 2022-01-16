@@ -31,7 +31,7 @@ This website is basically a internship website where you can find different type
 
 2. Internship Page
 
-![intern page](pro image/Internship page.jpg)
+![intern page](/pro image/Internship page.jpg)
 
 3. Internship Description Page
 
