@@ -31,15 +31,15 @@ This website is basically a internship website where you can find different type
 
 2. Internship Page
 
-![login](pro image/Internship page.jpg)
+![intern page](pro image/Internship page.jpg)
 
 3. Internship Description Page
 
-![Prod](pro image/internship des.jpg)
+![intern des](pro image/internship des.jpg)
 
 4. Course Page
 
-![Course](pro image/course page.jpg)
+![course](pro image/course page.jpg)
 
 5. Cart page
 
